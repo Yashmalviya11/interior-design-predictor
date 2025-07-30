@@ -1,1 +1,1 @@
-# interior-design-predictor
+# AI powered virtual interior designer
